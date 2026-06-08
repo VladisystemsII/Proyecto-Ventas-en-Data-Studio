@@ -18,7 +18,7 @@ Proyecto de visualización y análisis de datos desarrollado con Google Data Stu
 
 ## Dashboard Online
 
-PEGA_AQUI_EL_LINK_PUBLICO
+[PEGA_AQUI_EL_LINK_PUBLICO](https://datastudio.google.com/reporting/587268cc-7ee7-4b68-815d-519d6cdd4273)
 
 ## Objetivo del Proyecto
 
